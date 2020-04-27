@@ -1,4 +1,4 @@
-# Project Name
+# Hotel Booking Cancelation Study
 
 #### -- Project Status: [Completed]
 
