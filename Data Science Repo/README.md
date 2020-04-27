@@ -1,9 +1,9 @@
-# Hotel Booking Cancelation Study
+# Hotel Booking Cancellation Study
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-This is the final project for INFO-557. The purpose of this project is to use hotel booking data to predict poetential cancelation made by customers, which will allow the hotel to reduce cancelation and maximize profits. 
+This is the final project for INFO-557. The purpose of this project is to use hotel booking data to predict poetential cancellation made by customers, which will allow the hotel to reduce cancelation and maximize profits. 
 
 ### Collaborators
 |Name     |  Github Page   | 
@@ -23,7 +23,8 @@ This is the final project for INFO-557. The purpose of this project is to use ho
 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+The orginal data source is from Hotel booking demand datasets [https://doi.org/10.1016/j.dib.2018.11.126]. The data is also avaible on Kaggle[https://www.kaggle.com/jessemostipak/hotel-booking-demand]. This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. The data was downloaded and cleaned by Thomas Mock and Antoine Bichat for #TidyTuesday during the week of February 11th, 2020.\n
+I did some analysis starting from explotary data analysis, visualization, and then features engineering, and finally implmenting machine learning models to better predict the cancelations. 
 
 
 ## Getting Started
