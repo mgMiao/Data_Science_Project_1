@@ -30,8 +30,8 @@ I did some analysis starting from explotary data analysis, visualization, and th
 ## Getting Started
 
 1. Clone this repo.
-2. Raw Data is being kept [ ](Repo folder containing raw data) within this repo.
-3. Data processing/transformation botbook is being kept []
+2. Raw Data is being kept [https://github.com/mgMiao/Data_Science_Project_1/blob/master/Data%20Science%20Repo/src/data/hotel_bookings.csv ](Repo folder containing raw data) within this repo.
+3. Data processing/transformation notebook is being kept []
 
 
 
