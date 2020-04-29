@@ -31,7 +31,7 @@ I did some analysis starting from explotary data analysis, visualization, and th
 
 1. Clone this repo.
 2. Raw Data is being kept [https://github.com/mgMiao/Data_Science_Project_1/blob/master/Data%20Science%20Repo/src/data/hotel_bookings.csv] (src/data folder containing raw data) within this repo.
-3. Data processing/transformation notebook is being kept [https://github.com/mgMiao/Data_Science_Project_1/blob/master/Data%20Science%20Repo/notebooks/FinalProjectJieMiao.ipynb]
+3. Data processing/transformation notebook is being kept [https://github.com/mgMiao/Data_Science_Project_1/blob/master/Data%20Science%20Repo/notebooks/FinalProject_Notebook.ipynb]
 
 
 
